@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+backend/.env
+frontend/.env
+*.pem
+*.key
+
+# Temporary & Storage Files
+backend/storage/uploads/
+backend/storage/temp/
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
+.vitest_cache/
+
+# OS Files
+.DS_Store
+Thumbs.db

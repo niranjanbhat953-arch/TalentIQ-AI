@@ -1,0 +1,4304 @@
+{
+  "users": {
+    "recruiter_alpha_123": {
+      "id": "recruiter_alpha_123",
+      "email": "recruiter_alpha_123@talentiq.dev",
+      "displayName": "Recruiter (recrui)",
+      "photoUrl": null,
+      "organization": "Recruitment Team",
+      "role": "recruiter",
+      "createdAt": "2026-10-14T08:45:34.020243",
+      "updatedAt": "2026-10-14T08:45:34.020243",
+      "settings": {
+        "defaultWeights": {
+          "requiredSkills": 40,
+          "experience": 25,
+          "projects": 20,
+          "educationCerts": 15
+        }
+      }
+    },
+    "recruiter_demo": {
+      "id": "recruiter_demo",
+      "email": "recruiter_demo@talentiq.dev",
+      "displayName": "Recruiter (recrui)",
+      "photoUrl": null,
+      "organization": "Recruitment Team",
+      "role": "recruiter",
+      "createdAt": "2026-10-14T09:09:00.116661",
+      "updatedAt": "2026-10-14T09:09:00.116661",
+      "settings": {
+        "defaultWeights": {
+          "requiredSkills": 40,
+          "experience": 25,
+          "projects": 20,
+          "educationCerts": 15
+        }
+      }
+    },
+    "recruiter_alex_turner": {
+      "id": "recruiter_alex_turner",
+      "email": "recruiter_alex_turner@talentiq.dev",
+      "displayName": "Alex Turner",
+      "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80",
+      "organization": "TalentIQ Enterprise Team",
+      "role": "recruiter",
+      "createdAt": "2026-10-14T09:45:53.840207+00:00",
+      "updatedAt": "2026-10-14T09:45:53.840207+00:00",
+      "settings": {
+        "defaultWeights": {
+          "requiredSkills": 40,
+          "experience": 25,
+          "projects": 20,
+          "educationCerts": 15
+        }
+      }
+    },
+    "UNm9daqx4KbPLEqMHhlhMR8hUs83": {
+      "id": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "email": "niranjanbhat095@gmail.com",
+      "displayName": "Niranjan Bhat",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocK42HdSOQroQmAy3gyEyK0oNXO0GZGB2pDZ9yDXG4mGA0VJMg=s96-c",
+      "organization": "Recruitment Team",
+      "role": "recruiter",
+      "createdAt": "2026-10-14T12:13:32.919982+00:00",
+      "updatedAt": "2026-11-14T02:56:40.339498+00:00",
+      "settings": {
+        "defaultWeights": {
+          "requiredSkills": 40,
+          "experience": 25,
+          "projects": 20,
+          "educationCerts": 15
+        }
+      }
+    }
+  },
+  "jobs": {
+    "2ebce76d-293e-4bbc-b59a-45d4965db302": {
+      "title": "Confidential Staff Lead Engineer",
+      "department": "Core Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Leading distributed cloud infrastructure and kubernetes services.",
+      "responsibilities": [
+        "Architect microservices",
+        "Lead 6 engineers"
+      ],
+      "requiredSkills": [
+        "Python",
+        "Kubernetes",
+        "AWS"
+      ],
+      "preferredSkills": [
+        "Terraform",
+        "PostgreSQL"
+      ],
+      "minExperienceYears": 5.0,
+      "educationRequirements": [
+        "B.S. in Computer Science"
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect"
+      ],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "2ebce76d-293e-4bbc-b59a-45d4965db302",
+      "ownerId": "recruiter_alpha_123",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T08:46:35.034756",
+      "updatedAt": "2026-10-14T08:46:35.034756",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "e8fdee02-0b5b-445d-898a-a06e730868b3": {
+      "title": "Confidential Staff Lead Engineer",
+      "department": "Core Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Leading distributed cloud infrastructure and kubernetes services.",
+      "responsibilities": [
+        "Architect microservices",
+        "Lead 6 engineers"
+      ],
+      "requiredSkills": [
+        "Python",
+        "Kubernetes",
+        "AWS"
+      ],
+      "preferredSkills": [
+        "Terraform",
+        "PostgreSQL"
+      ],
+      "minExperienceYears": 5.0,
+      "educationRequirements": [
+        "B.S. in Computer Science"
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect"
+      ],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "e8fdee02-0b5b-445d-898a-a06e730868b3",
+      "ownerId": "recruiter_alpha_123",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T08:49:23.487558",
+      "updatedAt": "2026-10-14T08:49:23.487558",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "a32675e4-d92a-401a-a9ee-dfce541b0075": {
+      "title": "Senior Full-Stack Engineer",
+      "department": "Engineering",
+      "location": "Remote (USA)",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We are looking for a senior full-stack engineer to build the future of our platform.",
+      "responsibilities": [
+        "Build and maintain scalable web applications",
+        "Lead technical design and architecture decisions",
+        "Mentor junior engineers and conduct code reviews"
+      ],
+      "requiredSkills": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "preferredSkills": [
+        "Kubernetes",
+        "Redis",
+        "GraphQL",
+        "AWS"
+      ],
+      "minExperienceYears": 5.0,
+      "educationRequirements": [
+        "Bachelor's in Computer Science or equivalent field"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "a32675e4-d92a-401a-a9ee-dfce541b0075",
+      "ownerId": "recruiter_demo",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:09:25.841514",
+      "updatedAt": "2026-10-14T09:09:25.841514",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "48409fa1-67ff-41f8-8f33-6e5b47323ff3": {
+      "title": "Lead Cloud Infrastructure Architect",
+      "department": "Platform Engineering",
+      "location": "Hybrid - San Francisco, CA",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Looking for a lead cloud architect to design scalable, resilient infrastructure for our 40M+ daily users.",
+      "responsibilities": [
+        "Design multi-region cloud infrastructure on AWS/GCP",
+        "Implement and maintain Kubernetes clusters at scale",
+        "Establish SRE practices and SLO frameworks",
+        "Lead infrastructure security and compliance initiatives"
+      ],
+      "requiredSkills": [
+        "Kubernetes",
+        "AWS",
+        "Terraform",
+        "Python",
+        "Docker"
+      ],
+      "preferredSkills": [
+        "GCP",
+        "Prometheus",
+        "Grafana",
+        "ArgoCD",
+        "Istio"
+      ],
+      "minExperienceYears": 7.0,
+      "educationRequirements": [
+        "Bachelor's in Computer Science, Engineering, or related field"
+      ],
+      "certifications": [
+        "AWS Solutions Architect",
+        "CKA"
+      ],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "48409fa1-67ff-41f8-8f33-6e5b47323ff3",
+      "ownerId": "recruiter_demo",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:09:53.211570",
+      "updatedAt": "2026-10-14T09:09:53.211570",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "704d248f-111e-4383-8ee7-13a5035be9ca": {
+      "title": "Confidential Staff Lead Engineer",
+      "department": "Core Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Leading distributed cloud infrastructure and kubernetes services.",
+      "responsibilities": [
+        "Architect microservices",
+        "Lead 6 engineers"
+      ],
+      "requiredSkills": [
+        "Python",
+        "Kubernetes",
+        "AWS"
+      ],
+      "preferredSkills": [
+        "Terraform",
+        "PostgreSQL"
+      ],
+      "minExperienceYears": 5.0,
+      "educationRequirements": [
+        "B.S. in Computer Science"
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect"
+      ],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "704d248f-111e-4383-8ee7-13a5035be9ca",
+      "ownerId": "recruiter_alpha_123",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:11:16.277888",
+      "updatedAt": "2026-10-14T09:11:16.277888",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "a2591f6e-3bbe-450d-bab2-fcd29b58c871": {
+      "title": "Confidential Staff Lead Engineer",
+      "department": "Core Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Leading distributed cloud infrastructure and kubernetes services.",
+      "responsibilities": [
+        "Architect microservices",
+        "Lead 6 engineers"
+      ],
+      "requiredSkills": [
+        "Python",
+        "Kubernetes",
+        "AWS"
+      ],
+      "preferredSkills": [
+        "Terraform",
+        "PostgreSQL"
+      ],
+      "minExperienceYears": 5.0,
+      "educationRequirements": [
+        "B.S. in Computer Science"
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect"
+      ],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "a2591f6e-3bbe-450d-bab2-fcd29b58c871",
+      "ownerId": "recruiter_alpha_123",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:19:40.829185+00:00",
+      "updatedAt": "2026-10-14T09:19:40.829185+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "0be9ba59-5a4b-4d89-bb3a-178bc14c8375": {
+      "title": "Analytics Test Job",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Test job for analytics verification.",
+      "responsibilities": [
+        "Test analytics data"
+      ],
+      "requiredSkills": [
+        "UniqueSkillXYZ_12345"
+      ],
+      "preferredSkills": [],
+      "minExperienceYears": 1.0,
+      "educationRequirements": [],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "0be9ba59-5a4b-4d89-bb3a-178bc14c8375",
+      "ownerId": "analytics_test_user",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:42.881304+00:00",
+      "updatedAt": "2026-10-14T09:25:42.881304+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "a3ac1e64-cc9e-429f-89cd-7fbc9daf74c7": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "a3ac1e64-cc9e-429f-89cd-7fbc9daf74c7",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:54.744462+00:00",
+      "updatedAt": "2026-10-14T09:25:54.744462+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "6b5d35d2-4240-4e5e-b2e8-425ce2601213": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "6b5d35d2-4240-4e5e-b2e8-425ce2601213",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:54.763938+00:00",
+      "updatedAt": "2026-10-14T09:25:54.763938+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "6f752484-2a39-49a1-822d-5939f9695186": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "6f752484-2a39-49a1-822d-5939f9695186",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:54.805162+00:00",
+      "updatedAt": "2026-10-14T09:25:54.805162+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "59e30180-cd0f-48fe-a0d4-31fd77d390c6": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "59e30180-cd0f-48fe-a0d4-31fd77d390c6",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:54.827730+00:00",
+      "updatedAt": "2026-10-14T09:25:54.827730+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "e34a5891-bce2-42f6-af71-9e7f5c7be047": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "e34a5891-bce2-42f6-af71-9e7f5c7be047",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:54.838161+00:00",
+      "updatedAt": "2026-10-14T09:25:54.838161+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "579dc196-dd22-4c6a-8613-b3855c034ab8": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "579dc196-dd22-4c6a-8613-b3855c034ab8",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:54.858837+00:00",
+      "updatedAt": "2026-10-14T09:25:54.858837+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "33403568-7fa8-450c-a516-0f8a5a88d232": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "33403568-7fa8-450c-a516-0f8a5a88d232",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:54.869014+00:00",
+      "updatedAt": "2026-10-14T09:25:54.869014+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "461a1c18-5935-480b-85ac-1669766d32d0": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "461a1c18-5935-480b-85ac-1669766d32d0",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:54.886103+00:00",
+      "updatedAt": "2026-10-14T09:25:54.886103+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "2ea3353f-50a0-4ec2-8cc0-0d4d135c18ef": {
+      "title": "Backend Python Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "2ea3353f-50a0-4ec2-8cc0-0d4d135c18ef",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:55.058632+00:00",
+      "updatedAt": "2026-10-14T09:25:55.058632+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "b60571dc-084c-4152-9ffb-18c0ab53a537": {
+      "title": "Job For Alpha",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "b60571dc-084c-4152-9ffb-18c0ab53a537",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:55.074830+00:00",
+      "updatedAt": "2026-10-14T09:25:55.074830+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "4d9d7765-7d55-45c3-a6e4-2b35db9df5bb": {
+      "title": "Job For Beta",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "4d9d7765-7d55-45c3-a6e4-2b35db9df5bb",
+      "ownerId": "test_jobs_user_beta",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:55.080746+00:00",
+      "updatedAt": "2026-10-14T09:25:55.080746+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "02f11ba1-b5e1-4c0e-9c03-fad74165814e": {
+      "title": "Updated Python Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "02f11ba1-b5e1-4c0e-9c03-fad74165814e",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 2,
+      "createdAt": "2026-10-14T09:25:55.097212+00:00",
+      "updatedAt": "2026-10-14T09:25:55.102964+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "7ea26e3c-67be-4b4b-a00e-a252af0444e0": {
+      "title": "Backend Python Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "7ea26e3c-67be-4b4b-a00e-a252af0444e0",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:55.127195+00:00",
+      "updatedAt": "2026-10-14T09:25:55.138324+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "aa222768-9c5b-4e6a-b7a9-04b5f7626202": {
+      "title": "Confidential Staff Lead Engineer",
+      "department": "Core Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Leading distributed cloud infrastructure and kubernetes services.",
+      "responsibilities": [
+        "Architect microservices",
+        "Lead 6 engineers"
+      ],
+      "requiredSkills": [
+        "Python",
+        "Kubernetes",
+        "AWS"
+      ],
+      "preferredSkills": [
+        "Terraform",
+        "PostgreSQL"
+      ],
+      "minExperienceYears": 5.0,
+      "educationRequirements": [
+        "B.S. in Computer Science"
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect"
+      ],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "aa222768-9c5b-4e6a-b7a9-04b5f7626202",
+      "ownerId": "recruiter_alpha_123",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T09:25:55.353896+00:00",
+      "updatedAt": "2026-10-14T09:25:55.353896+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "af7c6034-42c1-443f-b188-c5517d9a4f50": {
+      "title": "Data Analyst",
+      "department": "Data and Business Intelligence",
+      "location": "Hybrid",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We are looking for a Data Analyst to transform datasets into useful business insights. The candidate should be comfortable working with spreadsheets, SQL, data visualization, and statistical analysis.",
+      "responsibilities": [],
+      "requiredSkills": [
+        "SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving."
+      ],
+      "preferredSkills": [
+        "Power BI or Tableau. Matplotlib or Seaborn. Basic machine learning. Business intelligence. Dashboard development."
+      ],
+      "minExperienceYears": 0.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science or related field"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-14T12:18:02.733807+00:00",
+      "updatedAt": "2026-10-14T12:18:02.733807+00:00",
+      "candidateCount": 3,
+      "screeningCount": 2
+    },
+    "6a63d20d-3a56-46ca-962e-0bd5177ea18e": {
+      "title": "Analytics Test Job",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Test job for analytics verification.",
+      "responsibilities": [
+        "Test analytics data"
+      ],
+      "requiredSkills": [
+        "UniqueSkillXYZ_12345"
+      ],
+      "preferredSkills": [],
+      "minExperienceYears": 1.0,
+      "educationRequirements": [],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "6a63d20d-3a56-46ca-962e-0bd5177ea18e",
+      "ownerId": "analytics_test_user",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:29:42.212910+00:00",
+      "updatedAt": "2026-10-15T13:29:42.212910+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "9981b64b-623d-48c4-8041-9a7ce88299f2": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "9981b64b-623d-48c4-8041-9a7ce88299f2",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:29:42.299764+00:00",
+      "updatedAt": "2026-10-15T13:29:42.299764+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "a0ad3f33-2d0c-47ba-be24-66d0e267037f": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "a0ad3f33-2d0c-47ba-be24-66d0e267037f",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:29:42.334963+00:00",
+      "updatedAt": "2026-10-15T13:29:42.334963+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "8cd74166-0a23-4624-a73e-c17a5c10b54c": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "8cd74166-0a23-4624-a73e-c17a5c10b54c",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:29:42.355360+00:00",
+      "updatedAt": "2026-10-15T13:29:42.355360+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "711b2430-c565-4cea-8a68-4a4365f8a196": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "711b2430-c565-4cea-8a68-4a4365f8a196",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:29:42.367046+00:00",
+      "updatedAt": "2026-10-15T13:29:42.367046+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "aeb3d4c8-121a-46fa-b46b-442b64895fb0": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "aeb3d4c8-121a-46fa-b46b-442b64895fb0",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:29:42.384096+00:00",
+      "updatedAt": "2026-10-15T13:29:42.384096+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "3b97c625-b96f-44c9-b83d-af1731f25992": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "3b97c625-b96f-44c9-b83d-af1731f25992",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:29:53.884667+00:00",
+      "updatedAt": "2026-10-15T13:29:53.884667+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "efd09e73-69a6-42f0-9cac-ec50cc4f69ac": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "efd09e73-69a6-42f0-9cac-ec50cc4f69ac",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:29:53.906064+00:00",
+      "updatedAt": "2026-10-15T13:29:53.906064+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "15a1cd72-0a1d-421b-870e-711269859bf3": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "15a1cd72-0a1d-421b-870e-711269859bf3",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:29:57.032774+00:00",
+      "updatedAt": "2026-10-15T13:29:57.032774+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "e98ad681-9f78-4091-94d6-cd6a1e803c77": {
+      "title": "Backend Python Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "e98ad681-9f78-4091-94d6-cd6a1e803c77",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:30:00.252922+00:00",
+      "updatedAt": "2026-10-15T13:30:00.252922+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "cdc9b79a-97b6-4a3a-8a94-46145c8f67ac": {
+      "title": "Job For Alpha",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "cdc9b79a-97b6-4a3a-8a94-46145c8f67ac",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:30:00.313762+00:00",
+      "updatedAt": "2026-10-15T13:30:00.313762+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "b874c1c9-8321-430b-adda-02184f085d7e": {
+      "title": "Job For Beta",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "b874c1c9-8321-430b-adda-02184f085d7e",
+      "ownerId": "test_jobs_user_beta",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:30:00.326594+00:00",
+      "updatedAt": "2026-10-15T13:30:00.326594+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "9442c536-c8c8-46e8-af17-2f1f97be4fdb": {
+      "title": "Updated Python Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "9442c536-c8c8-46e8-af17-2f1f97be4fdb",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 2,
+      "createdAt": "2026-10-15T13:30:00.353619+00:00",
+      "updatedAt": "2026-10-15T13:30:00.366285+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "bd3fb0ce-fd38-41ac-bd88-f93da22d1c2b": {
+      "title": "Backend Python Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "bd3fb0ce-fd38-41ac-bd88-f93da22d1c2b",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:30:00.415875+00:00",
+      "updatedAt": "2026-10-15T13:30:00.438488+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "506f24ae-a5f5-4e3b-9eed-8bbb3c7baa33": {
+      "title": "Confidential Staff Lead Engineer",
+      "department": "Core Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Leading distributed cloud infrastructure and kubernetes services.",
+      "responsibilities": [
+        "Architect microservices",
+        "Lead 6 engineers"
+      ],
+      "requiredSkills": [
+        "Python",
+        "Kubernetes",
+        "AWS"
+      ],
+      "preferredSkills": [
+        "Terraform",
+        "PostgreSQL"
+      ],
+      "minExperienceYears": 5.0,
+      "educationRequirements": [
+        "B.S. in Computer Science"
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect"
+      ],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "506f24ae-a5f5-4e3b-9eed-8bbb3c7baa33",
+      "ownerId": "recruiter_alpha_123",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-15T13:30:00.847823+00:00",
+      "updatedAt": "2026-10-15T13:30:00.847823+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "4660bc8b-f766-45b2-91a7-1da185c3bf13": {
+      "title": "Analytics Test Job",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Test job for analytics verification.",
+      "responsibilities": [
+        "Test analytics data"
+      ],
+      "requiredSkills": [
+        "UniqueSkillXYZ_12345"
+      ],
+      "preferredSkills": [],
+      "minExperienceYears": 1.0,
+      "educationRequirements": [],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "4660bc8b-f766-45b2-91a7-1da185c3bf13",
+      "ownerId": "analytics_test_user",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T05:59:44.555672+00:00",
+      "updatedAt": "2026-10-17T05:59:44.555672+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "362d08cb-6166-46f2-ba92-33628a9227a3": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "362d08cb-6166-46f2-ba92-33628a9227a3",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T05:59:44.628223+00:00",
+      "updatedAt": "2026-10-17T05:59:44.628223+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "b44039e7-5bc1-4c01-a2eb-3847f8614423": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "b44039e7-5bc1-4c01-a2eb-3847f8614423",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T05:59:44.663365+00:00",
+      "updatedAt": "2026-10-17T05:59:44.663365+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "80648e34-1430-4ae7-93ea-9db1ddad0c3c": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "80648e34-1430-4ae7-93ea-9db1ddad0c3c",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T05:59:44.681141+00:00",
+      "updatedAt": "2026-10-17T05:59:44.681141+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "3fb31301-d220-4ae3-96fa-1ea464150b52": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "3fb31301-d220-4ae3-96fa-1ea464150b52",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T05:59:44.691568+00:00",
+      "updatedAt": "2026-10-17T05:59:44.691568+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "4483bfc0-f29e-466b-a9a5-386d2aeaab6f": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "4483bfc0-f29e-466b-a9a5-386d2aeaab6f",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T05:59:44.706197+00:00",
+      "updatedAt": "2026-10-17T05:59:44.706197+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "5ff3a7a2-497e-45d5-8f2a-3d204e4faa4c": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "5ff3a7a2-497e-45d5-8f2a-3d204e4faa4c",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T06:00:01.543810+00:00",
+      "updatedAt": "2026-10-17T06:00:01.543810+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "3000219a-a649-4f44-9a18-644de3d52063": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "3000219a-a649-4f44-9a18-644de3d52063",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T06:00:01.569224+00:00",
+      "updatedAt": "2026-10-17T06:00:01.569224+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "bc6ec305-619e-46b5-a8c8-47d508e65d84": {
+      "title": "Data Engineer",
+      "department": "Data Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Build and maintain data pipelines for analytics and machine learning.",
+      "responsibilities": [
+        "Develop ETL pipelines",
+        "Monitor data quality"
+      ],
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Apache Spark"
+      ],
+      "preferredSkills": [
+        "Airflow",
+        "dbt"
+      ],
+      "minExperienceYears": 2.0,
+      "educationRequirements": [
+        "Bachelor's degree"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "bc6ec305-619e-46b5-a8c8-47d508e65d84",
+      "ownerId": "test_cand_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T06:00:18.186492+00:00",
+      "updatedAt": "2026-10-17T06:00:18.186492+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "d0828d3e-bafe-4075-94b8-abc04f62ff12": {
+      "title": "Backend Python Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "d0828d3e-bafe-4075-94b8-abc04f62ff12",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T06:00:36.296606+00:00",
+      "updatedAt": "2026-10-17T06:00:36.296606+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "3ad1f72a-e246-486d-8124-cb2e19a8bd28": {
+      "title": "Job For Alpha",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "3ad1f72a-e246-486d-8124-cb2e19a8bd28",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T06:00:36.373340+00:00",
+      "updatedAt": "2026-10-17T06:00:36.373340+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "62cf778b-2292-4e2e-b9a6-2fc57b589259": {
+      "title": "Job For Beta",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "62cf778b-2292-4e2e-b9a6-2fc57b589259",
+      "ownerId": "test_jobs_user_beta",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T06:00:36.391485+00:00",
+      "updatedAt": "2026-10-17T06:00:36.391485+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "4e3a115c-4842-4cef-b6ef-457228505816": {
+      "title": "Updated Python Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "4e3a115c-4842-4cef-b6ef-457228505816",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 2,
+      "createdAt": "2026-10-17T06:00:36.418820+00:00",
+      "updatedAt": "2026-10-17T06:00:36.431587+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "f59d55a8-464f-41e8-9920-6dd7ba0cd0a3": {
+      "title": "Backend Python Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "We need an experienced Python engineer who can build scalable microservices.",
+      "responsibilities": [
+        "Design microservice APIs",
+        "Maintain CI/CD pipelines"
+      ],
+      "requiredSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "preferredSkills": [
+        "Docker",
+        "Redis"
+      ],
+      "minExperienceYears": 3.0,
+      "educationRequirements": [
+        "Bachelor's degree in Computer Science"
+      ],
+      "certifications": [],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "f59d55a8-464f-41e8-9920-6dd7ba0cd0a3",
+      "ownerId": "test_jobs_user_alpha",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T06:00:36.482909+00:00",
+      "updatedAt": "2026-10-17T06:00:36.508461+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    },
+    "0f3bfe6a-3c86-4bbe-9d18-54f412a3839d": {
+      "title": "Confidential Staff Lead Engineer",
+      "department": "Core Platform",
+      "location": "Remote",
+      "employmentType": "FULL_TIME",
+      "status": "ACTIVE",
+      "description": "Leading distributed cloud infrastructure and kubernetes services.",
+      "responsibilities": [
+        "Architect microservices",
+        "Lead 6 engineers"
+      ],
+      "requiredSkills": [
+        "Python",
+        "Kubernetes",
+        "AWS"
+      ],
+      "preferredSkills": [
+        "Terraform",
+        "PostgreSQL"
+      ],
+      "minExperienceYears": 5.0,
+      "educationRequirements": [
+        "B.S. in Computer Science"
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect"
+      ],
+      "customCriteria": [],
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "id": "0f3bfe6a-3c86-4bbe-9d18-54f412a3839d",
+      "ownerId": "recruiter_alpha_123",
+      "criteriaVersion": 1,
+      "createdAt": "2026-10-17T06:00:36.961410+00:00",
+      "updatedAt": "2026-10-17T06:00:36.961410+00:00",
+      "candidateCount": 0,
+      "screeningCount": 0
+    }
+  },
+  "resumes": {
+    "5282790b-661c-4fda-9623-bf8823b3a67c": {
+      "id": "5282790b-661c-4fda-9623-bf8823b3a67c",
+      "ownerId": "recruiter_alex_turner",
+      "jobId": null,
+      "fileName": "sudarshan resume.pdf",
+      "fileSize": 88895,
+      "fileHash": "f9b316b797fd0207d0c17ad846f1f6d229a90c38203ec12ca23d1f4633219a1c",
+      "mimeType": "application/pdf",
+      "storagePath": "E:\\Edufytech Mini  Project\\TalentIQ AI\\backend\\storage\\uploads\\5282790b-661c-4fda-9623-bf8823b3a67c_sudarshan resume.pdf",
+      "processingStatus": "EXTRACTED",
+      "errorMessage": null,
+      "extractedProfile": {
+        "candidateName": "Sudarshan Gireesh Hegde",
+        "email": "sudarshangunjgod@gmail.com",
+        "phone": "+91 8277488091",
+        "location": "Bengaluru, India",
+        "summary": "MBA student in Finance and Business Analytics seeking an entry-level \ufb01nance role, with strong interest in applying \ufb01nancial and\nanalytical skills to support business decision- making.",
+        "totalExperienceYears": 7.0,
+        "workHistory": [
+          {
+            "company": "2024",
+            "title": "2026",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "MBA (Pursuing)",
+              "MES College of Commerce, Sirsi"
+            ],
+            "skillsUsed": []
+          },
+          {
+            "company": "2021",
+            "title": "2024",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "MGC PU College, Siddapur",
+              "Prashanti English Medium New High School, Siddapur",
+              "CERTIFICATIONS",
+              "SAP FICO \u2013 Netcraftz",
+              "NISM Investor Certi\ufb01cation Examination \u2013 SEBI"
+            ],
+            "skillsUsed": []
+          },
+          {
+            "company": "Participant",
+            "title": "National Integration Camp 2023",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "Volunteer \u2013 National Service Scheme (NSS)"
+            ],
+            "skillsUsed": []
+          }
+        ],
+        "education": [
+          {
+            "institution": "Pursuing",
+            "degree": "MBA",
+            "fieldOfStudy": "Computer Science / Related Field",
+            "graduationYear": null
+          }
+        ],
+        "skills": [],
+        "projects": [
+          {
+            "name": "Identi\ufb01cation of Financial Tracking System through ERP using SAP FICO",
+            "description": "\u2013 Con\ufb01gured SAP FICO Enterprise Structure, Chart of Accounts and General Ledger. \u2013 Executed Accounts Payable, Accounts Receivable and General Ledger transactions using SAP T-Codes. \u2013 Implemented Cost Center and Pro\ufb01t Center Accounting. \u2013 Automated year-end closing and generated Pro\ufb01t & Loss and Bala",
+            "technologies": [],
+            "link": null
+          }
+        ],
+        "certifications": [],
+        "achievements": [
+          "Awarded Best Performer at National Integration Camp (2023) for active participation and leadership."
+        ],
+        "evidenceSnippets": [
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of 2026 at 2024 with core contributions: MBA (Pursuing) MES College of Commerce, Sirsi",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of 2024 at 2021 with core contributions: MGC PU College, Siddapur Prashanti English Medium New High School, Siddapur",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of National Integration Camp 2023 at Participant with core contributions: Volunteer \u2013 National Service Scheme (NSS)",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "EDUCATION",
+            "text": "MBA in Computer Science / Related Field from Pursuing",
+            "pageNumber": 1,
+            "confidence": 0.92
+          }
+        ],
+        "rawTextLength": 1961,
+        "isScannedWarning": false
+      },
+      "uploadedAt": "2026-10-14T09:46:17.097472+00:00",
+      "updatedAt": "2026-10-14T09:46:17.097472+00:00"
+    },
+    "03385f96-737f-4fa8-9108-62160cf7f634": {
+      "id": "03385f96-737f-4fa8-9108-62160cf7f634",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "fileName": "niranjan.pdf",
+      "fileSize": 183493,
+      "fileHash": "673eb93d63f41499f98e758e266221ab386274109a3676541a0403a6349a803d",
+      "mimeType": "application/pdf",
+      "storagePath": "E:\\Edufytech Mini  Project\\TalentIQ AI\\backend\\storage\\uploads\\03385f96-737f-4fa8-9108-62160cf7f634_niranjan.pdf",
+      "processingStatus": "EXTRACTED",
+      "errorMessage": null,
+      "extractedProfile": {
+        "candidateName": "Niranjan M Bhat",
+        "email": "niranjanbhat095@gmail.com",
+        "phone": "+91 9242124943",
+        "location": "Bengaluru, Karnataka",
+        "summary": "Information Science and Engineering undergraduate seeking opportunities in software development,Data Science. Interested in\napplying programming, problem-solving, and emerging AI technologies to develop practical and scalable software solutions.",
+        "totalExperienceYears": 4.0,
+        "workHistory": [],
+        "education": [
+          {
+            "institution": ".- Information Science & Engineering",
+            "degree": "B.E",
+            "fieldOfStudy": "Computer Science / Related Field",
+            "graduationYear": null
+          }
+        ],
+        "skills": [
+          "Artificial Intelligence",
+          "C++",
+          "CSS3",
+          "FastAPI",
+          "Firebase",
+          "Flask",
+          "Git",
+          "GitHub",
+          "HTML5",
+          "Java",
+          "JavaScript",
+          "Machine Learning",
+          "MongoDB",
+          "MySQL",
+          "Node.js",
+          "Python",
+          "REST API",
+          "React"
+        ],
+        "projects": [
+          {
+            "name": "CredWise \u2013 Behavior Credit \u2013 India\u2019s AI Alternate Credit Score",
+            "description": "\u2013 Designed an AI-powered alternative credit scoring concept that evaluates \ufb01nancial behavior beyond traditional credit scores. \u2013 Proposed analyzing alternative behavioral and \ufb01nancial indicators to help assess creditworthiness for individuals with limited or no traditional credit history. \u2013 Designed",
+            "technologies": [
+              "Artificial Intelligence",
+              "Machine Learning"
+            ],
+            "link": null
+          }
+        ],
+        "certifications": [
+          "GeeksforGeeks Hackathon",
+          "H.K.B.K. 24-Hour Hackathon",
+          "\u2013 Participated in a GeeksforGeeks hackathon and collaborated with a team to develop a technology-based solution within a",
+          "\u2013 Participated in a 24-hour hackathon focused on developing a technology-based solution under time constraints.",
+          "HACKATHONS & ACTIVITIES"
+        ],
+        "achievements": [],
+        "evidenceSnippets": [
+          {
+            "category": "SKILLS",
+            "text": "Demonstrated proficiency in: Artificial Intelligence, C++, CSS3, FastAPI, Firebase, Flask, Git, GitHub",
+            "pageNumber": 1,
+            "confidence": 0.95
+          },
+          {
+            "category": "EDUCATION",
+            "text": "B.E in Computer Science / Related Field from .- Information Science & Engineering",
+            "pageNumber": 1,
+            "confidence": 0.92
+          }
+        ],
+        "rawTextLength": 2333,
+        "isScannedWarning": false
+      },
+      "uploadedAt": "2026-10-14T12:18:41.171431+00:00",
+      "updatedAt": "2026-10-14T12:18:41.171431+00:00"
+    },
+    "f2a4df87-76a8-45cd-85d6-5324b7279242": {
+      "id": "f2a4df87-76a8-45cd-85d6-5324b7279242",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "fileName": "Niranjan_M_Bhat_Resume.pdf",
+      "fileSize": 2792,
+      "fileHash": "2a45fe5b58f129fbc370e1de9612ade1d28422b9a43fd631a7b2727910c9b5cc",
+      "mimeType": "application/pdf",
+      "storagePath": "E:\\Edufytech Mini  Project\\TalentIQ AI\\backend\\storage\\uploads\\f2a4df87-76a8-45cd-85d6-5324b7279242_Niranjan_M_Bhat_Resume.pdf",
+      "processingStatus": "EXTRACTED",
+      "errorMessage": null,
+      "extractedProfile": {
+        "candidateName": "Niranjan M Bhat",
+        "email": "niranjanbhat095@gmail.com",
+        "phone": "9242124943",
+        "location": "Kujalli, Kumta, Uttara Kannada, 561332",
+        "summary": "Niranjan M Bhat Address: Kujalli, Kumta, Uttara Kannada, 561332 Mob. No.: 9242124943",
+        "totalExperienceYears": 20.0,
+        "workHistory": [],
+        "education": [
+          {
+            "institution": "Pursuing  of Engineering (.) \u2013 4th Semester from Aditya College of Engineering and",
+            "degree": "Bachelor",
+            "fieldOfStudy": "Computer Science / Related Field",
+            "graduationYear": null
+          }
+        ],
+        "skills": [
+          "Java",
+          "Python"
+        ],
+        "projects": [],
+        "certifications": [],
+        "achievements": [],
+        "evidenceSnippets": [
+          {
+            "category": "SKILLS",
+            "text": "Demonstrated proficiency in: Java, Python",
+            "pageNumber": 1,
+            "confidence": 0.95
+          },
+          {
+            "category": "EDUCATION",
+            "text": "Bachelor in Computer Science / Related Field from Pursuing  of Engineering (.) \u2013 4th Semester from Aditya College of Engineering and",
+            "pageNumber": 1,
+            "confidence": 0.92
+          }
+        ],
+        "rawTextLength": 1065,
+        "isScannedWarning": false
+      },
+      "uploadedAt": "2026-10-14T12:18:41.289500+00:00",
+      "updatedAt": "2026-10-14T12:18:41.289500+00:00"
+    },
+    "04d07728-5ac4-4f44-9df8-49b0a302dda1": {
+      "id": "04d07728-5ac4-4f44-9df8-49b0a302dda1",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "fileName": "sudarshan resume.pdf",
+      "fileSize": 88895,
+      "fileHash": "f9b316b797fd0207d0c17ad846f1f6d229a90c38203ec12ca23d1f4633219a1c",
+      "mimeType": "application/pdf",
+      "storagePath": "E:\\Edufytech Mini  Project\\TalentIQ AI\\backend\\storage\\uploads\\04d07728-5ac4-4f44-9df8-49b0a302dda1_sudarshan resume.pdf",
+      "processingStatus": "EXTRACTED",
+      "errorMessage": null,
+      "extractedProfile": {
+        "candidateName": "Sudarshan Gireesh Hegde",
+        "email": "sudarshangunjgod@gmail.com",
+        "phone": "+91 8277488091",
+        "location": "Bengaluru, India",
+        "summary": "MBA student in Finance and Business Analytics seeking an entry-level \ufb01nance role, with strong interest in applying \ufb01nancial and\nanalytical skills to support business decision- making.",
+        "totalExperienceYears": 7.0,
+        "workHistory": [
+          {
+            "company": "2024",
+            "title": "2026",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "MBA (Pursuing)",
+              "MES College of Commerce, Sirsi"
+            ],
+            "skillsUsed": []
+          },
+          {
+            "company": "2021",
+            "title": "2024",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "MGC PU College, Siddapur",
+              "Prashanti English Medium New High School, Siddapur",
+              "CERTIFICATIONS",
+              "SAP FICO \u2013 Netcraftz",
+              "NISM Investor Certi\ufb01cation Examination \u2013 SEBI"
+            ],
+            "skillsUsed": []
+          },
+          {
+            "company": "Participant",
+            "title": "National Integration Camp 2023",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "Volunteer \u2013 National Service Scheme (NSS)"
+            ],
+            "skillsUsed": []
+          }
+        ],
+        "education": [
+          {
+            "institution": "Pursuing",
+            "degree": "MBA",
+            "fieldOfStudy": "Computer Science / Related Field",
+            "graduationYear": null
+          }
+        ],
+        "skills": [],
+        "projects": [
+          {
+            "name": "Identi\ufb01cation of Financial Tracking System through ERP using SAP FICO",
+            "description": "\u2013 Con\ufb01gured SAP FICO Enterprise Structure, Chart of Accounts and General Ledger. \u2013 Executed Accounts Payable, Accounts Receivable and General Ledger transactions using SAP T-Codes. \u2013 Implemented Cost Center and Pro\ufb01t Center Accounting. \u2013 Automated year-end closing and generated Pro\ufb01t & Loss and Bala",
+            "technologies": [],
+            "link": null
+          }
+        ],
+        "certifications": [],
+        "achievements": [
+          "Awarded Best Performer at National Integration Camp (2023) for active participation and leadership."
+        ],
+        "evidenceSnippets": [
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of 2026 at 2024 with core contributions: MBA (Pursuing) MES College of Commerce, Sirsi",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of 2024 at 2021 with core contributions: MGC PU College, Siddapur Prashanti English Medium New High School, Siddapur",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of National Integration Camp 2023 at Participant with core contributions: Volunteer \u2013 National Service Scheme (NSS)",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "EDUCATION",
+            "text": "MBA in Computer Science / Related Field from Pursuing",
+            "pageNumber": 1,
+            "confidence": 0.92
+          }
+        ],
+        "rawTextLength": 1961,
+        "isScannedWarning": false
+      },
+      "uploadedAt": "2026-10-14T12:18:41.308819+00:00",
+      "updatedAt": "2026-10-14T12:18:41.308819+00:00"
+    }
+  },
+  "screeningRuns": {
+    "183b7fa7-3a6e-4df8-bd51-0c2cb632171b": {
+      "id": "183b7fa7-3a6e-4df8-bd51-0c2cb632171b",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "criteriaVersion": 1,
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "matchingModel": "TalentIQ Deterministic Alignment v1.0",
+      "totalSubmitted": 3,
+      "totalProcessed": 3,
+      "totalFailed": 0,
+      "status": "COMPLETED",
+      "startedAt": "2026-10-14T12:18:44.682712+00:00",
+      "completedAt": "2026-10-14T12:18:44.719133+00:00",
+      "updatedAt": "2026-10-14T12:18:44.719214+00:00"
+    },
+    "fc1825f3-e637-44d4-ae20-494d63d381ce": {
+      "id": "fc1825f3-e637-44d4-ae20-494d63d381ce",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "criteriaVersion": 1,
+      "scoringWeights": {
+        "requiredSkills": 40.0,
+        "experience": 25.0,
+        "projects": 20.0,
+        "educationCerts": 15.0
+      },
+      "matchingModel": "TalentIQ Deterministic Alignment v1.0",
+      "totalSubmitted": 3,
+      "totalProcessed": 3,
+      "totalFailed": 0,
+      "status": "COMPLETED",
+      "startedAt": "2026-10-14T12:22:23.853402+00:00",
+      "completedAt": "2026-10-14T12:22:23.925569+00:00",
+      "updatedAt": "2026-10-14T12:22:23.925618+00:00"
+    }
+  },
+  "candidateResults": {
+    "374d3ae3-438c-4212-a9ce-7ba284b452d9": {
+      "id": "374d3ae3-438c-4212-a9ce-7ba284b452d9",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "screeningRunId": "183b7fa7-3a6e-4df8-bd51-0c2cb632171b",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "resumeId": "03385f96-737f-4fa8-9108-62160cf7f634",
+      "candidateName": "Niranjan M Bhat",
+      "overallScore": 33.5,
+      "evaluationCoverage": 100.0,
+      "evaluableCriteriaCount": 4,
+      "totalCriteriaCount": 4,
+      "criterionScores": {
+        "requiredSkills": 0.0,
+        "experience": 80.0,
+        "projects": 30.0,
+        "educationCerts": 50.0
+      },
+      "skillGaps": [
+        {
+          "skill": "Sql. Excel. Python Fundamentals. Pandas. Data Cleaning. Descriptive Statistics. Data Visualization. Analytical Problem-Solving.",
+          "isRequired": true,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": "Can you describe your practical experience working with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. in production?"
+        },
+        {
+          "skill": "Power Bi Or Tableau. Matplotlib Or Seaborn. Basic Machine Learning. Business Intelligence. Dashboard Development.",
+          "isRequired": false,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": null
+        }
+      ],
+      "matchedRequirements": [],
+      "missingRequirements": [
+        "Required Skill: SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving."
+      ],
+      "unclearRequirements": [
+        "Specific degree requirement could not be automatically confirmed."
+      ],
+      "reviewStatus": "NOT_PROCEEDING",
+      "recruiterNotes": "",
+      "processingWarnings": [],
+      "extractedProfile": {
+        "candidateName": "Niranjan M Bhat",
+        "email": "niranjanbhat095@gmail.com",
+        "phone": "+91 9242124943",
+        "location": "Bengaluru, Karnataka",
+        "summary": "Information Science and Engineering undergraduate seeking opportunities in software development,Data Science. Interested in\napplying programming, problem-solving, and emerging AI technologies to develop practical and scalable software solutions.",
+        "totalExperienceYears": 4.0,
+        "workHistory": [],
+        "education": [
+          {
+            "institution": ".- Information Science & Engineering",
+            "degree": "B.E",
+            "fieldOfStudy": "Computer Science / Related Field",
+            "graduationYear": null
+          }
+        ],
+        "skills": [
+          "Artificial Intelligence",
+          "C++",
+          "CSS3",
+          "FastAPI",
+          "Firebase",
+          "Flask",
+          "Git",
+          "GitHub",
+          "HTML5",
+          "Java",
+          "JavaScript",
+          "Machine Learning",
+          "MongoDB",
+          "MySQL",
+          "Node.js",
+          "Python",
+          "REST API",
+          "React"
+        ],
+        "projects": [
+          {
+            "name": "CredWise \u2013 Behavior Credit \u2013 India\u2019s AI Alternate Credit Score",
+            "description": "\u2013 Designed an AI-powered alternative credit scoring concept that evaluates \ufb01nancial behavior beyond traditional credit scores. \u2013 Proposed analyzing alternative behavioral and \ufb01nancial indicators to help assess creditworthiness for individuals with limited or no traditional credit history. \u2013 Designed",
+            "technologies": [
+              "Artificial Intelligence",
+              "Machine Learning"
+            ],
+            "link": null
+          }
+        ],
+        "certifications": [
+          "GeeksforGeeks Hackathon",
+          "H.K.B.K. 24-Hour Hackathon",
+          "\u2013 Participated in a GeeksforGeeks hackathon and collaborated with a team to develop a technology-based solution within a",
+          "\u2013 Participated in a 24-hour hackathon focused on developing a technology-based solution under time constraints.",
+          "HACKATHONS & ACTIVITIES"
+        ],
+        "achievements": [],
+        "evidenceSnippets": [
+          {
+            "category": "SKILLS",
+            "text": "Demonstrated proficiency in: Artificial Intelligence, C++, CSS3, FastAPI, Firebase, Flask, Git, GitHub",
+            "pageNumber": 1,
+            "confidence": 0.95
+          },
+          {
+            "category": "EDUCATION",
+            "text": "B.E in Computer Science / Related Field from .- Information Science & Engineering",
+            "pageNumber": 1,
+            "confidence": 0.92
+          }
+        ],
+        "rawTextLength": 2333,
+        "isScannedWarning": false
+      },
+      "methodologyNote": "Computed using deterministic weighted alignment: Required Skills (40.0%), Experience (25.0%), Projects (20.0%), Education/Certs (15.0%). Weights were renormalized over 4/4 evaluable criteria.",
+      "createdAt": "2026-10-14T12:18:44.682712+00:00",
+      "updatedAt": "2026-10-14T12:22:13.601285+00:00"
+    },
+    "df3b26cc-f1bc-46d5-b7c4-c1964f2a1e13": {
+      "id": "df3b26cc-f1bc-46d5-b7c4-c1964f2a1e13",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "screeningRunId": "183b7fa7-3a6e-4df8-bd51-0c2cb632171b",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "resumeId": "f2a4df87-76a8-45cd-85d6-5324b7279242",
+      "candidateName": "Niranjan M Bhat",
+      "overallScore": 45.3,
+      "evaluationCoverage": 75.0,
+      "evaluableCriteriaCount": 3,
+      "totalCriteriaCount": 4,
+      "criterionScores": {
+        "requiredSkills": 0.0,
+        "experience": 100.0,
+        "projects": 25.0,
+        "educationCerts": 75.0
+      },
+      "skillGaps": [
+        {
+          "skill": "Sql. Excel. Python Fundamentals. Pandas. Data Cleaning. Descriptive Statistics. Data Visualization. Analytical Problem-Solving.",
+          "isRequired": true,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": "Can you describe your practical experience working with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. in production?"
+        },
+        {
+          "skill": "Power Bi Or Tableau. Matplotlib Or Seaborn. Basic Machine Learning. Business Intelligence. Dashboard Development.",
+          "isRequired": false,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": null
+        }
+      ],
+      "matchedRequirements": [
+        "Education requirements satisfied."
+      ],
+      "missingRequirements": [
+        "Required Skill: SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving."
+      ],
+      "unclearRequirements": [],
+      "reviewStatus": "SHORTLISTED",
+      "recruiterNotes": "",
+      "processingWarnings": [],
+      "extractedProfile": {
+        "candidateName": "Niranjan M Bhat",
+        "email": "niranjanbhat095@gmail.com",
+        "phone": "9242124943",
+        "location": "Kujalli, Kumta, Uttara Kannada, 561332",
+        "summary": "Niranjan M Bhat Address: Kujalli, Kumta, Uttara Kannada, 561332 Mob. No.: 9242124943",
+        "totalExperienceYears": 20.0,
+        "workHistory": [],
+        "education": [
+          {
+            "institution": "Pursuing  of Engineering (.) \u2013 4th Semester from Aditya College of Engineering and",
+            "degree": "Bachelor",
+            "fieldOfStudy": "Computer Science / Related Field",
+            "graduationYear": null
+          }
+        ],
+        "skills": [
+          "Java",
+          "Python"
+        ],
+        "projects": [],
+        "certifications": [],
+        "achievements": [],
+        "evidenceSnippets": [
+          {
+            "category": "SKILLS",
+            "text": "Demonstrated proficiency in: Java, Python",
+            "pageNumber": 1,
+            "confidence": 0.95
+          },
+          {
+            "category": "EDUCATION",
+            "text": "Bachelor in Computer Science / Related Field from Pursuing  of Engineering (.) \u2013 4th Semester from Aditya College of Engineering and",
+            "pageNumber": 1,
+            "confidence": 0.92
+          }
+        ],
+        "rawTextLength": 1065,
+        "isScannedWarning": false
+      },
+      "methodologyNote": "Computed using deterministic weighted alignment: Required Skills (40.0%), Experience (25.0%), Projects (20.0%), Education/Certs (15.0%). Weights were renormalized over 3/4 evaluable criteria.",
+      "createdAt": "2026-10-14T12:18:44.682712+00:00",
+      "updatedAt": "2026-10-14T12:21:04.202786+00:00"
+    },
+    "d2c70a35-12be-47e1-be02-11c5c5e97093": {
+      "id": "d2c70a35-12be-47e1-be02-11c5c5e97093",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "screeningRunId": "183b7fa7-3a6e-4df8-bd51-0c2cb632171b",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "resumeId": "04d07728-5ac4-4f44-9df8-49b0a302dda1",
+      "candidateName": "Sudarshan Gireesh Hegde",
+      "overallScore": 36.2,
+      "evaluationCoverage": 100.0,
+      "evaluableCriteriaCount": 4,
+      "totalCriteriaCount": 4,
+      "criterionScores": {
+        "requiredSkills": 0.0,
+        "experience": 100.0,
+        "projects": 30.0,
+        "educationCerts": 35.0
+      },
+      "skillGaps": [
+        {
+          "skill": "Sql. Excel. Python Fundamentals. Pandas. Data Cleaning. Descriptive Statistics. Data Visualization. Analytical Problem-Solving.",
+          "isRequired": true,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": "Can you describe your practical experience working with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. in production?"
+        },
+        {
+          "skill": "Power Bi Or Tableau. Matplotlib Or Seaborn. Basic Machine Learning. Business Intelligence. Dashboard Development.",
+          "isRequired": false,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": null
+        }
+      ],
+      "matchedRequirements": [],
+      "missingRequirements": [
+        "Required Skill: SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving."
+      ],
+      "unclearRequirements": [
+        "Specific degree requirement could not be automatically confirmed."
+      ],
+      "reviewStatus": "SHORTLISTED",
+      "recruiterNotes": "",
+      "processingWarnings": [],
+      "extractedProfile": {
+        "candidateName": "Sudarshan Gireesh Hegde",
+        "email": "sudarshangunjgod@gmail.com",
+        "phone": "+91 8277488091",
+        "location": "Bengaluru, India",
+        "summary": "MBA student in Finance and Business Analytics seeking an entry-level \ufb01nance role, with strong interest in applying \ufb01nancial and\nanalytical skills to support business decision- making.",
+        "totalExperienceYears": 7.0,
+        "workHistory": [
+          {
+            "company": "2024",
+            "title": "2026",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "MBA (Pursuing)",
+              "MES College of Commerce, Sirsi"
+            ],
+            "skillsUsed": []
+          },
+          {
+            "company": "2021",
+            "title": "2024",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "MGC PU College, Siddapur",
+              "Prashanti English Medium New High School, Siddapur",
+              "CERTIFICATIONS",
+              "SAP FICO \u2013 Netcraftz",
+              "NISM Investor Certi\ufb01cation Examination \u2013 SEBI"
+            ],
+            "skillsUsed": []
+          },
+          {
+            "company": "Participant",
+            "title": "National Integration Camp 2023",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "Volunteer \u2013 National Service Scheme (NSS)"
+            ],
+            "skillsUsed": []
+          }
+        ],
+        "education": [
+          {
+            "institution": "Pursuing",
+            "degree": "MBA",
+            "fieldOfStudy": "Computer Science / Related Field",
+            "graduationYear": null
+          }
+        ],
+        "skills": [],
+        "projects": [
+          {
+            "name": "Identi\ufb01cation of Financial Tracking System through ERP using SAP FICO",
+            "description": "\u2013 Con\ufb01gured SAP FICO Enterprise Structure, Chart of Accounts and General Ledger. \u2013 Executed Accounts Payable, Accounts Receivable and General Ledger transactions using SAP T-Codes. \u2013 Implemented Cost Center and Pro\ufb01t Center Accounting. \u2013 Automated year-end closing and generated Pro\ufb01t & Loss and Bala",
+            "technologies": [],
+            "link": null
+          }
+        ],
+        "certifications": [],
+        "achievements": [
+          "Awarded Best Performer at National Integration Camp (2023) for active participation and leadership."
+        ],
+        "evidenceSnippets": [
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of 2026 at 2024 with core contributions: MBA (Pursuing) MES College of Commerce, Sirsi",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of 2024 at 2021 with core contributions: MGC PU College, Siddapur Prashanti English Medium New High School, Siddapur",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of National Integration Camp 2023 at Participant with core contributions: Volunteer \u2013 National Service Scheme (NSS)",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "EDUCATION",
+            "text": "MBA in Computer Science / Related Field from Pursuing",
+            "pageNumber": 1,
+            "confidence": 0.92
+          }
+        ],
+        "rawTextLength": 1961,
+        "isScannedWarning": false
+      },
+      "methodologyNote": "Computed using deterministic weighted alignment: Required Skills (40.0%), Experience (25.0%), Projects (20.0%), Education/Certs (15.0%). Weights were renormalized over 4/4 evaluable criteria.",
+      "createdAt": "2026-10-14T12:18:44.682712+00:00",
+      "updatedAt": "2026-10-14T12:21:16.361329+00:00"
+    },
+    "b46ac017-edab-4736-8aae-11453d319d2d": {
+      "id": "b46ac017-edab-4736-8aae-11453d319d2d",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "screeningRunId": "fc1825f3-e637-44d4-ae20-494d63d381ce",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "resumeId": "03385f96-737f-4fa8-9108-62160cf7f634",
+      "candidateName": "Niranjan M Bhat",
+      "overallScore": 33.5,
+      "evaluationCoverage": 100.0,
+      "evaluableCriteriaCount": 4,
+      "totalCriteriaCount": 4,
+      "criterionScores": {
+        "requiredSkills": 0.0,
+        "experience": 80.0,
+        "projects": 30.0,
+        "educationCerts": 50.0
+      },
+      "skillGaps": [
+        {
+          "skill": "Sql. Excel. Python Fundamentals. Pandas. Data Cleaning. Descriptive Statistics. Data Visualization. Analytical Problem-Solving.",
+          "isRequired": true,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": "Can you describe your practical experience working with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. in production?"
+        },
+        {
+          "skill": "Power Bi Or Tableau. Matplotlib Or Seaborn. Basic Machine Learning. Business Intelligence. Dashboard Development.",
+          "isRequired": false,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": null
+        }
+      ],
+      "matchedRequirements": [],
+      "missingRequirements": [
+        "Required Skill: SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving."
+      ],
+      "unclearRequirements": [
+        "Specific degree requirement could not be automatically confirmed."
+      ],
+      "reviewStatus": "NEEDS_VERIFICATION",
+      "recruiterNotes": "",
+      "processingWarnings": [],
+      "extractedProfile": {
+        "candidateName": "Niranjan M Bhat",
+        "email": "niranjanbhat095@gmail.com",
+        "phone": "+91 9242124943",
+        "location": "Bengaluru, Karnataka",
+        "summary": "Information Science and Engineering undergraduate seeking opportunities in software development,Data Science. Interested in\napplying programming, problem-solving, and emerging AI technologies to develop practical and scalable software solutions.",
+        "totalExperienceYears": 4.0,
+        "workHistory": [],
+        "education": [
+          {
+            "institution": ".- Information Science & Engineering",
+            "degree": "B.E",
+            "fieldOfStudy": "Computer Science / Related Field",
+            "graduationYear": null
+          }
+        ],
+        "skills": [
+          "Artificial Intelligence",
+          "C++",
+          "CSS3",
+          "FastAPI",
+          "Firebase",
+          "Flask",
+          "Git",
+          "GitHub",
+          "HTML5",
+          "Java",
+          "JavaScript",
+          "Machine Learning",
+          "MongoDB",
+          "MySQL",
+          "Node.js",
+          "Python",
+          "REST API",
+          "React"
+        ],
+        "projects": [
+          {
+            "name": "CredWise \u2013 Behavior Credit \u2013 India\u2019s AI Alternate Credit Score",
+            "description": "\u2013 Designed an AI-powered alternative credit scoring concept that evaluates \ufb01nancial behavior beyond traditional credit scores. \u2013 Proposed analyzing alternative behavioral and \ufb01nancial indicators to help assess creditworthiness for individuals with limited or no traditional credit history. \u2013 Designed",
+            "technologies": [
+              "Artificial Intelligence",
+              "Machine Learning"
+            ],
+            "link": null
+          }
+        ],
+        "certifications": [
+          "GeeksforGeeks Hackathon",
+          "H.K.B.K. 24-Hour Hackathon",
+          "\u2013 Participated in a GeeksforGeeks hackathon and collaborated with a team to develop a technology-based solution within a",
+          "\u2013 Participated in a 24-hour hackathon focused on developing a technology-based solution under time constraints.",
+          "HACKATHONS & ACTIVITIES"
+        ],
+        "achievements": [],
+        "evidenceSnippets": [
+          {
+            "category": "SKILLS",
+            "text": "Demonstrated proficiency in: Artificial Intelligence, C++, CSS3, FastAPI, Firebase, Flask, Git, GitHub",
+            "pageNumber": 1,
+            "confidence": 0.95
+          },
+          {
+            "category": "EDUCATION",
+            "text": "B.E in Computer Science / Related Field from .- Information Science & Engineering",
+            "pageNumber": 1,
+            "confidence": 0.92
+          }
+        ],
+        "rawTextLength": 2333,
+        "isScannedWarning": false
+      },
+      "methodologyNote": "Computed using deterministic weighted alignment: Required Skills (40.0%), Experience (25.0%), Projects (20.0%), Education/Certs (15.0%). Weights were renormalized over 4/4 evaluable criteria.",
+      "createdAt": "2026-10-14T12:22:23.853402+00:00",
+      "updatedAt": "2026-10-14T12:33:44.225273+00:00"
+    },
+    "f814b422-5ae1-45d4-a749-54e50c64bb93": {
+      "id": "f814b422-5ae1-45d4-a749-54e50c64bb93",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "screeningRunId": "fc1825f3-e637-44d4-ae20-494d63d381ce",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "resumeId": "f2a4df87-76a8-45cd-85d6-5324b7279242",
+      "candidateName": "Niranjan M Bhat",
+      "overallScore": 45.3,
+      "evaluationCoverage": 75.0,
+      "evaluableCriteriaCount": 3,
+      "totalCriteriaCount": 4,
+      "criterionScores": {
+        "requiredSkills": 0.0,
+        "experience": 100.0,
+        "projects": 25.0,
+        "educationCerts": 75.0
+      },
+      "skillGaps": [
+        {
+          "skill": "Sql. Excel. Python Fundamentals. Pandas. Data Cleaning. Descriptive Statistics. Data Visualization. Analytical Problem-Solving.",
+          "isRequired": true,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": "Can you describe your practical experience working with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. in production?"
+        },
+        {
+          "skill": "Power Bi Or Tableau. Matplotlib Or Seaborn. Basic Machine Learning. Business Intelligence. Dashboard Development.",
+          "isRequired": false,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": null
+        }
+      ],
+      "matchedRequirements": [
+        "Education requirements satisfied."
+      ],
+      "missingRequirements": [
+        "Required Skill: SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving."
+      ],
+      "unclearRequirements": [],
+      "reviewStatus": "NOT_PROCEEDING",
+      "recruiterNotes": "",
+      "processingWarnings": [],
+      "extractedProfile": {
+        "candidateName": "Niranjan M Bhat",
+        "email": "niranjanbhat095@gmail.com",
+        "phone": "9242124943",
+        "location": "Kujalli, Kumta, Uttara Kannada, 561332",
+        "summary": "Niranjan M Bhat Address: Kujalli, Kumta, Uttara Kannada, 561332 Mob. No.: 9242124943",
+        "totalExperienceYears": 20.0,
+        "workHistory": [],
+        "education": [
+          {
+            "institution": "Pursuing  of Engineering (.) \u2013 4th Semester from Aditya College of Engineering and",
+            "degree": "Bachelor",
+            "fieldOfStudy": "Computer Science / Related Field",
+            "graduationYear": null
+          }
+        ],
+        "skills": [
+          "Java",
+          "Python"
+        ],
+        "projects": [],
+        "certifications": [],
+        "achievements": [],
+        "evidenceSnippets": [
+          {
+            "category": "SKILLS",
+            "text": "Demonstrated proficiency in: Java, Python",
+            "pageNumber": 1,
+            "confidence": 0.95
+          },
+          {
+            "category": "EDUCATION",
+            "text": "Bachelor in Computer Science / Related Field from Pursuing  of Engineering (.) \u2013 4th Semester from Aditya College of Engineering and",
+            "pageNumber": 1,
+            "confidence": 0.92
+          }
+        ],
+        "rawTextLength": 1065,
+        "isScannedWarning": false
+      },
+      "methodologyNote": "Computed using deterministic weighted alignment: Required Skills (40.0%), Experience (25.0%), Projects (20.0%), Education/Certs (15.0%). Weights were renormalized over 3/4 evaluable criteria.",
+      "createdAt": "2026-10-14T12:22:23.853402+00:00",
+      "updatedAt": "2026-10-14T12:33:38.437405+00:00"
+    },
+    "245c0f31-28d8-44ad-9be1-64a0312594a7": {
+      "id": "245c0f31-28d8-44ad-9be1-64a0312594a7",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "screeningRunId": "fc1825f3-e637-44d4-ae20-494d63d381ce",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "resumeId": "04d07728-5ac4-4f44-9df8-49b0a302dda1",
+      "candidateName": "Sudarshan Gireesh Hegde",
+      "overallScore": 36.2,
+      "evaluationCoverage": 100.0,
+      "evaluableCriteriaCount": 4,
+      "totalCriteriaCount": 4,
+      "criterionScores": {
+        "requiredSkills": 0.0,
+        "experience": 100.0,
+        "projects": 30.0,
+        "educationCerts": 35.0
+      },
+      "skillGaps": [
+        {
+          "skill": "Sql. Excel. Python Fundamentals. Pandas. Data Cleaning. Descriptive Statistics. Data Visualization. Analytical Problem-Solving.",
+          "isRequired": true,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": "Can you describe your practical experience working with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. in production?"
+        },
+        {
+          "skill": "Power Bi Or Tableau. Matplotlib Or Seaborn. Basic Machine Learning. Business Intelligence. Dashboard Development.",
+          "isRequired": false,
+          "status": "NOT_DETECTED",
+          "evidenceText": null,
+          "verificationQuestion": null
+        }
+      ],
+      "matchedRequirements": [],
+      "missingRequirements": [
+        "Required Skill: SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving."
+      ],
+      "unclearRequirements": [
+        "Specific degree requirement could not be automatically confirmed."
+      ],
+      "reviewStatus": "NEEDS_VERIFICATION",
+      "recruiterNotes": "",
+      "processingWarnings": [],
+      "extractedProfile": {
+        "candidateName": "Sudarshan Gireesh Hegde",
+        "email": "sudarshangunjgod@gmail.com",
+        "phone": "+91 8277488091",
+        "location": "Bengaluru, India",
+        "summary": "MBA student in Finance and Business Analytics seeking an entry-level \ufb01nance role, with strong interest in applying \ufb01nancial and\nanalytical skills to support business decision- making.",
+        "totalExperienceYears": 7.0,
+        "workHistory": [
+          {
+            "company": "2024",
+            "title": "2026",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "MBA (Pursuing)",
+              "MES College of Commerce, Sirsi"
+            ],
+            "skillsUsed": []
+          },
+          {
+            "company": "2021",
+            "title": "2024",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "MGC PU College, Siddapur",
+              "Prashanti English Medium New High School, Siddapur",
+              "CERTIFICATIONS",
+              "SAP FICO \u2013 Netcraftz",
+              "NISM Investor Certi\ufb01cation Examination \u2013 SEBI"
+            ],
+            "skillsUsed": []
+          },
+          {
+            "company": "Participant",
+            "title": "National Integration Camp 2023",
+            "startDate": "",
+            "endDate": "Present",
+            "highlights": [
+              "Volunteer \u2013 National Service Scheme (NSS)"
+            ],
+            "skillsUsed": []
+          }
+        ],
+        "education": [
+          {
+            "institution": "Pursuing",
+            "degree": "MBA",
+            "fieldOfStudy": "Computer Science / Related Field",
+            "graduationYear": null
+          }
+        ],
+        "skills": [],
+        "projects": [
+          {
+            "name": "Identi\ufb01cation of Financial Tracking System through ERP using SAP FICO",
+            "description": "\u2013 Con\ufb01gured SAP FICO Enterprise Structure, Chart of Accounts and General Ledger. \u2013 Executed Accounts Payable, Accounts Receivable and General Ledger transactions using SAP T-Codes. \u2013 Implemented Cost Center and Pro\ufb01t Center Accounting. \u2013 Automated year-end closing and generated Pro\ufb01t & Loss and Bala",
+            "technologies": [],
+            "link": null
+          }
+        ],
+        "certifications": [],
+        "achievements": [
+          "Awarded Best Performer at National Integration Camp (2023) for active participation and leadership."
+        ],
+        "evidenceSnippets": [
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of 2026 at 2024 with core contributions: MBA (Pursuing) MES College of Commerce, Sirsi",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of 2024 at 2021 with core contributions: MGC PU College, Siddapur Prashanti English Medium New High School, Siddapur",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "WORK_EXPERIENCE",
+            "text": "Held role of National Integration Camp 2023 at Participant with core contributions: Volunteer \u2013 National Service Scheme (NSS)",
+            "pageNumber": 1,
+            "confidence": 0.9
+          },
+          {
+            "category": "EDUCATION",
+            "text": "MBA in Computer Science / Related Field from Pursuing",
+            "pageNumber": 1,
+            "confidence": 0.92
+          }
+        ],
+        "rawTextLength": 1961,
+        "isScannedWarning": false
+      },
+      "methodologyNote": "Computed using deterministic weighted alignment: Required Skills (40.0%), Experience (25.0%), Projects (20.0%), Education/Certs (15.0%). Weights were renormalized over 4/4 evaluable criteria.",
+      "createdAt": "2026-10-14T12:22:23.853402+00:00",
+      "updatedAt": "2026-10-14T12:33:41.461025+00:00"
+    }
+  },
+  "interviewQuestionSets": {
+    "d2c33151-3e59-4597-b8ab-2d49e98747b2": {
+      "id": "d2c33151-3e59-4597-b8ab-2d49e98747b2",
+      "ownerId": "test_cand_user_alpha",
+      "jobId": "e34a5891-bce2-42f6-af71-9e7f5c7be047",
+      "jobTitle": "Data Engineer",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "06286446-480d-4ba2-87d2-21f3bb3d633a",
+          "category": "TECHNICAL",
+          "competency": "Python Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with Python?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in Python; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of Python",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in Python?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "20a656eb-53cc-443c-bd86-de90f9c209a1",
+          "category": "TECHNICAL",
+          "competency": "SQL Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "178789c0-bfc7-4512-a36e-6a759da91b2a",
+          "category": "TECHNICAL",
+          "competency": "Apache Spark Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with Apache Spark?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in Apache Spark; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of Apache Spark",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in Apache Spark?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-14T09:25:54.845022+00:00",
+      "updatedAt": "2026-10-14T09:25:54.845059+00:00"
+    },
+    "24b2005b-cf01-491a-a559-1f10692f59e5": {
+      "id": "24b2005b-cf01-491a-a559-1f10692f59e5",
+      "ownerId": "test_cand_user_alpha",
+      "jobId": "33403568-7fa8-450c-a516-0f8a5a88d232",
+      "jobTitle": "Data Engineer",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "c06aab17-1d1d-4c53-b0ef-b13b45099d4a",
+          "category": "TECHNICAL",
+          "competency": "Python Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with Python?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in Python; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of Python",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in Python?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "8a907ae7-b788-41e1-9fca-381761d22d7b",
+          "category": "TECHNICAL",
+          "competency": "SQL Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-14T09:25:54.874856+00:00",
+      "updatedAt": "2026-10-14T09:25:54.874896+00:00"
+    },
+    "da2382b9-0e99-49fd-aed8-4a597f2f3b9e": {
+      "id": "da2382b9-0e99-49fd-aed8-4a597f2f3b9e",
+      "ownerId": "test_cand_user_alpha",
+      "jobId": "461a1c18-5935-480b-85ac-1669766d32d0",
+      "jobTitle": "Data Engineer",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "8d14a682-e17c-465b-9949-6e67c69345c6",
+          "category": "TECHNICAL",
+          "competency": "Python Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with Python?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in Python; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of Python",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in Python?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-14T09:25:54.892704+00:00",
+      "updatedAt": "2026-10-14T09:25:54.892732+00:00"
+    },
+    "3a7ab7f3-cda3-435d-b1c3-ccb7572f3152": {
+      "id": "3a7ab7f3-cda3-435d-b1c3-ccb7572f3152",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "0b661fba-c9e8-414b-9b8f-9c4259dccb70",
+          "category": "TECHNICAL",
+          "competency": "SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Analyst position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "e959fea5-f488-4898-a4ea-4b8ec11a176e",
+          "category": "PROBLEM_SOLVING",
+          "competency": "Root Cause Analysis & Incident Management",
+          "difficulty": "MID",
+          "questionText": "Imagine an outage where a critical API servicing 'production reliability' experiences a 5x latency surge and cascading timeouts. Walk me step-by-step through your triage, diagnostic, and mitigation plan.",
+          "relevanceReason": "Evaluates problem solving under stress for key responsibility: production reliability.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Prioritizes stabilizing users/traffic before deep code dissection (rollback/circuit breaker)",
+            "Checks dashboards, APM traces, error rates, and database lock saturation",
+            "Proposes post-mortem blameless culture and preventative regression tests"
+          ],
+          "followUpProbes": [
+            "How do you communicate status to non-technical stakeholders during an active incident?",
+            "What SLA/SLO thresholds do you configure to alert on this proactively?"
+          ]
+        },
+        {
+          "id": "fdedbc62-c904-4ccf-929d-4e7975d5bdb2",
+          "category": "BEHAVIORAL",
+          "competency": "Stakeholder Collaboration & Technical Disagreements",
+          "difficulty": "MID",
+          "questionText": "Describe a time when you and a peer or product manager strongly disagreed on a technical decision or feature timeline. How did you advocate your perspective, find common ground, and execute?",
+          "relevanceReason": "Assesses emotional intelligence, cross-functional collaboration, and decision velocity.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Focuses on shared product outcomes rather than personal ego",
+            "Uses data, prototypes, or user impact to make objective arguments",
+            "Demonstrates ability to 'disagree and commit' when leadership aligns"
+          ],
+          "followUpProbes": [
+            "What was the eventual measurable outcome of that decision?",
+            "How did that experience influence how you build consensus today?"
+          ]
+        },
+        {
+          "id": "aeaa44f2-eab6-4ef7-87f2-324f156d479a",
+          "category": "ROLE_SCENARIO",
+          "competency": "Prioritization & Technical Debt Management",
+          "difficulty": "MID",
+          "questionText": "As a Data Analyst, you are asked to ship a feature in 3 weeks that normally requires 6 weeks. How do you negotiate scope, protect architectural integrity, and manage technical debt?",
+          "relevanceReason": "Essential operational requirement for the Data Analyst position.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Breaks requirements into Must-Have vs Nice-to-Have phases",
+            "Identifies specific non-functional compromises and schedules debt payoff",
+            "Maintains automated testing baseline to avoid shipping broken logic"
+          ],
+          "followUpProbes": [
+            "What is one corner you would NEVER cut, even under executive pressure?",
+            "How do you track tech debt so it doesn't get forgotten?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-14T12:21:39.331040+00:00",
+      "updatedAt": "2026-10-14T12:21:39.331151+00:00"
+    },
+    "ea60c208-cad8-41f4-9ec7-5a353879ddc2": {
+      "id": "ea60c208-cad8-41f4-9ec7-5a353879ddc2",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "dc7b6760-f684-4828-83d5-32eacf40ee5e",
+          "category": "TECHNICAL",
+          "competency": "SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Analyst position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "8fe6e8f1-9465-4e43-8b0d-f543de2478db",
+          "category": "PROBLEM_SOLVING",
+          "competency": "Root Cause Analysis & Incident Management",
+          "difficulty": "MID",
+          "questionText": "Imagine an outage where a critical API servicing 'production reliability' experiences a 5x latency surge and cascading timeouts. Walk me step-by-step through your triage, diagnostic, and mitigation plan.",
+          "relevanceReason": "Evaluates problem solving under stress for key responsibility: production reliability.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Prioritizes stabilizing users/traffic before deep code dissection (rollback/circuit breaker)",
+            "Checks dashboards, APM traces, error rates, and database lock saturation",
+            "Proposes post-mortem blameless culture and preventative regression tests"
+          ],
+          "followUpProbes": [
+            "How do you communicate status to non-technical stakeholders during an active incident?",
+            "What SLA/SLO thresholds do you configure to alert on this proactively?"
+          ]
+        },
+        {
+          "id": "86e6c30c-9d3d-4e27-8d32-8d81067db8b0",
+          "category": "BEHAVIORAL",
+          "competency": "Stakeholder Collaboration & Technical Disagreements",
+          "difficulty": "MID",
+          "questionText": "Describe a time when you and a peer or product manager strongly disagreed on a technical decision or feature timeline. How did you advocate your perspective, find common ground, and execute?",
+          "relevanceReason": "Assesses emotional intelligence, cross-functional collaboration, and decision velocity.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Focuses on shared product outcomes rather than personal ego",
+            "Uses data, prototypes, or user impact to make objective arguments",
+            "Demonstrates ability to 'disagree and commit' when leadership aligns"
+          ],
+          "followUpProbes": [
+            "What was the eventual measurable outcome of that decision?",
+            "How did that experience influence how you build consensus today?"
+          ]
+        },
+        {
+          "id": "0277058b-387e-434d-94f1-c918af84a383",
+          "category": "ROLE_SCENARIO",
+          "competency": "Prioritization & Technical Debt Management",
+          "difficulty": "MID",
+          "questionText": "As a Data Analyst, you are asked to ship a feature in 3 weeks that normally requires 6 weeks. How do you negotiate scope, protect architectural integrity, and manage technical debt?",
+          "relevanceReason": "Essential operational requirement for the Data Analyst position.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Breaks requirements into Must-Have vs Nice-to-Have phases",
+            "Identifies specific non-functional compromises and schedules debt payoff",
+            "Maintains automated testing baseline to avoid shipping broken logic"
+          ],
+          "followUpProbes": [
+            "What is one corner you would NEVER cut, even under executive pressure?",
+            "How do you track tech debt so it doesn't get forgotten?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-14T12:22:38.314169+00:00",
+      "updatedAt": "2026-10-14T12:22:38.314265+00:00"
+    },
+    "a70c8ce6-e0bf-4ca1-91db-add9fe8c2c74": {
+      "id": "a70c8ce6-e0bf-4ca1-91db-add9fe8c2c74",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "aa31eed6-02c9-419d-9d2a-e1a3f0029268",
+          "category": "TECHNICAL",
+          "competency": "SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. Architecture & Optimization",
+          "difficulty": "LEAD",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Analyst position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "c9beb181-8a54-461c-9f2d-4ad30244590c",
+          "category": "PROBLEM_SOLVING",
+          "competency": "Root Cause Analysis & Incident Management",
+          "difficulty": "LEAD",
+          "questionText": "Imagine an outage where a critical API servicing 'production reliability' experiences a 5x latency surge and cascading timeouts. Walk me step-by-step through your triage, diagnostic, and mitigation plan.",
+          "relevanceReason": "Evaluates problem solving under stress for key responsibility: production reliability.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Prioritizes stabilizing users/traffic before deep code dissection (rollback/circuit breaker)",
+            "Checks dashboards, APM traces, error rates, and database lock saturation",
+            "Proposes post-mortem blameless culture and preventative regression tests"
+          ],
+          "followUpProbes": [
+            "How do you communicate status to non-technical stakeholders during an active incident?",
+            "What SLA/SLO thresholds do you configure to alert on this proactively?"
+          ]
+        },
+        {
+          "id": "07cff505-32fa-4634-b039-120b7e2a400b",
+          "category": "BEHAVIORAL",
+          "competency": "Stakeholder Collaboration & Technical Disagreements",
+          "difficulty": "LEAD",
+          "questionText": "Describe a time when you and a peer or product manager strongly disagreed on a technical decision or feature timeline. How did you advocate your perspective, find common ground, and execute?",
+          "relevanceReason": "Assesses emotional intelligence, cross-functional collaboration, and decision velocity.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Focuses on shared product outcomes rather than personal ego",
+            "Uses data, prototypes, or user impact to make objective arguments",
+            "Demonstrates ability to 'disagree and commit' when leadership aligns"
+          ],
+          "followUpProbes": [
+            "What was the eventual measurable outcome of that decision?",
+            "How did that experience influence how you build consensus today?"
+          ]
+        },
+        {
+          "id": "45a4cf1e-ac24-4bf1-af13-1fe44a364281",
+          "category": "ROLE_SCENARIO",
+          "competency": "Prioritization & Technical Debt Management",
+          "difficulty": "LEAD",
+          "questionText": "As a Data Analyst, you are asked to ship a feature in 3 weeks that normally requires 6 weeks. How do you negotiate scope, protect architectural integrity, and manage technical debt?",
+          "relevanceReason": "Essential operational requirement for the Data Analyst position.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Breaks requirements into Must-Have vs Nice-to-Have phases",
+            "Identifies specific non-functional compromises and schedules debt payoff",
+            "Maintains automated testing baseline to avoid shipping broken logic"
+          ],
+          "followUpProbes": [
+            "What is one corner you would NEVER cut, even under executive pressure?",
+            "How do you track tech debt so it doesn't get forgotten?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-14T12:22:47.587626+00:00",
+      "updatedAt": "2026-10-14T12:22:47.587716+00:00"
+    },
+    "d517a434-6642-47a1-a885-871b10a4ffd6": {
+      "id": "d517a434-6642-47a1-a885-871b10a4ffd6",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "56e6616a-b420-486f-bed4-e14cfe59621a",
+          "category": "TECHNICAL",
+          "competency": "SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. Architecture & Optimization",
+          "difficulty": "LEAD",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Analyst position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "7e2f8c13-0100-4a1e-9cc9-4334221db8ed",
+          "category": "PROBLEM_SOLVING",
+          "competency": "Root Cause Analysis & Incident Management",
+          "difficulty": "LEAD",
+          "questionText": "Imagine an outage where a critical API servicing 'production reliability' experiences a 5x latency surge and cascading timeouts. Walk me step-by-step through your triage, diagnostic, and mitigation plan.",
+          "relevanceReason": "Evaluates problem solving under stress for key responsibility: production reliability.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Prioritizes stabilizing users/traffic before deep code dissection (rollback/circuit breaker)",
+            "Checks dashboards, APM traces, error rates, and database lock saturation",
+            "Proposes post-mortem blameless culture and preventative regression tests"
+          ],
+          "followUpProbes": [
+            "How do you communicate status to non-technical stakeholders during an active incident?",
+            "What SLA/SLO thresholds do you configure to alert on this proactively?"
+          ]
+        },
+        {
+          "id": "2d572594-f7f7-40ca-b78c-cde2ef18a9d1",
+          "category": "BEHAVIORAL",
+          "competency": "Stakeholder Collaboration & Technical Disagreements",
+          "difficulty": "LEAD",
+          "questionText": "Describe a time when you and a peer or product manager strongly disagreed on a technical decision or feature timeline. How did you advocate your perspective, find common ground, and execute?",
+          "relevanceReason": "Assesses emotional intelligence, cross-functional collaboration, and decision velocity.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Focuses on shared product outcomes rather than personal ego",
+            "Uses data, prototypes, or user impact to make objective arguments",
+            "Demonstrates ability to 'disagree and commit' when leadership aligns"
+          ],
+          "followUpProbes": [
+            "What was the eventual measurable outcome of that decision?",
+            "How did that experience influence how you build consensus today?"
+          ]
+        },
+        {
+          "id": "554dd1ca-6362-4690-9eba-2f0e0bd4cb66",
+          "category": "ROLE_SCENARIO",
+          "competency": "Prioritization & Technical Debt Management",
+          "difficulty": "LEAD",
+          "questionText": "As a Data Analyst, you are asked to ship a feature in 3 weeks that normally requires 6 weeks. How do you negotiate scope, protect architectural integrity, and manage technical debt?",
+          "relevanceReason": "Essential operational requirement for the Data Analyst position.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Breaks requirements into Must-Have vs Nice-to-Have phases",
+            "Identifies specific non-functional compromises and schedules debt payoff",
+            "Maintains automated testing baseline to avoid shipping broken logic"
+          ],
+          "followUpProbes": [
+            "What is one corner you would NEVER cut, even under executive pressure?",
+            "How do you track tech debt so it doesn't get forgotten?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-14T12:23:03.112156+00:00",
+      "updatedAt": "2026-10-14T12:23:03.112232+00:00"
+    },
+    "c3eef9b5-de10-48ba-abb3-397a4f9d8c3d": {
+      "id": "c3eef9b5-de10-48ba-abb3-397a4f9d8c3d",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "candidateResultId": "f814b422-5ae1-45d4-a749-54e50c64bb93",
+      "candidateName": "Niranjan M Bhat",
+      "questions": [
+        {
+          "id": "589ee7ad-41c7-4cb3-afac-bc3e9c2ae0c6",
+          "category": "TECHNICAL",
+          "competency": "SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. Architecture & Optimization",
+          "difficulty": "LEAD",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Analyst position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "ff86af61-3ce2-4a6e-ab05-f38e9d53f034",
+          "category": "PROBLEM_SOLVING",
+          "competency": "Root Cause Analysis & Incident Management",
+          "difficulty": "LEAD",
+          "questionText": "Imagine an outage where a critical API servicing 'production reliability' experiences a 5x latency surge and cascading timeouts. Walk me step-by-step through your triage, diagnostic, and mitigation plan.",
+          "relevanceReason": "Evaluates problem solving under stress for key responsibility: production reliability.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Prioritizes stabilizing users/traffic before deep code dissection (rollback/circuit breaker)",
+            "Checks dashboards, APM traces, error rates, and database lock saturation",
+            "Proposes post-mortem blameless culture and preventative regression tests"
+          ],
+          "followUpProbes": [
+            "How do you communicate status to non-technical stakeholders during an active incident?",
+            "What SLA/SLO thresholds do you configure to alert on this proactively?"
+          ]
+        },
+        {
+          "id": "772a3fd0-5aef-43a8-a738-7b362ba668a2",
+          "category": "BEHAVIORAL",
+          "competency": "Stakeholder Collaboration & Technical Disagreements",
+          "difficulty": "LEAD",
+          "questionText": "Describe a time when you and a peer or product manager strongly disagreed on a technical decision or feature timeline. How did you advocate your perspective, find common ground, and execute?",
+          "relevanceReason": "Assesses emotional intelligence, cross-functional collaboration, and decision velocity.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Focuses on shared product outcomes rather than personal ego",
+            "Uses data, prototypes, or user impact to make objective arguments",
+            "Demonstrates ability to 'disagree and commit' when leadership aligns"
+          ],
+          "followUpProbes": [
+            "What was the eventual measurable outcome of that decision?",
+            "How did that experience influence how you build consensus today?"
+          ]
+        },
+        {
+          "id": "b124a3e3-4ecc-487e-83e6-f44d995248c0",
+          "category": "ROLE_SCENARIO",
+          "competency": "Prioritization & Technical Debt Management",
+          "difficulty": "LEAD",
+          "questionText": "As a Data Analyst, you are asked to ship a feature in 3 weeks that normally requires 6 weeks. How do you negotiate scope, protect architectural integrity, and manage technical debt?",
+          "relevanceReason": "Essential operational requirement for the Data Analyst position.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Breaks requirements into Must-Have vs Nice-to-Have phases",
+            "Identifies specific non-functional compromises and schedules debt payoff",
+            "Maintains automated testing baseline to avoid shipping broken logic"
+          ],
+          "followUpProbes": [
+            "What is one corner you would NEVER cut, even under executive pressure?",
+            "How do you track tech debt so it doesn't get forgotten?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-14T12:23:13.943990+00:00",
+      "updatedAt": "2026-10-14T12:23:13.944072+00:00"
+    },
+    "21dc772b-8706-4e3b-8a91-fdcb25921b6d": {
+      "id": "21dc772b-8706-4e3b-8a91-fdcb25921b6d",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "candidateResultId": "f814b422-5ae1-45d4-a749-54e50c64bb93",
+      "candidateName": "Niranjan M Bhat",
+      "questions": [
+        {
+          "id": "b63dd017-6ccc-4494-ab89-3826618a7c63",
+          "category": "TECHNICAL",
+          "competency": "SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. Architecture & Optimization",
+          "difficulty": "LEAD",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Analyst position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "ea3162cb-4da5-42ae-b7ec-8c8c3eb61e79",
+          "category": "PROBLEM_SOLVING",
+          "competency": "Root Cause Analysis & Incident Management",
+          "difficulty": "LEAD",
+          "questionText": "Imagine an outage where a critical API servicing 'production reliability' experiences a 5x latency surge and cascading timeouts. Walk me step-by-step through your triage, diagnostic, and mitigation plan.",
+          "relevanceReason": "Evaluates problem solving under stress for key responsibility: production reliability.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Prioritizes stabilizing users/traffic before deep code dissection (rollback/circuit breaker)",
+            "Checks dashboards, APM traces, error rates, and database lock saturation",
+            "Proposes post-mortem blameless culture and preventative regression tests"
+          ],
+          "followUpProbes": [
+            "How do you communicate status to non-technical stakeholders during an active incident?",
+            "What SLA/SLO thresholds do you configure to alert on this proactively?"
+          ]
+        },
+        {
+          "id": "4686cbba-0c13-4120-b94d-f2c97c251360",
+          "category": "BEHAVIORAL",
+          "competency": "Stakeholder Collaboration & Technical Disagreements",
+          "difficulty": "LEAD",
+          "questionText": "Describe a time when you and a peer or product manager strongly disagreed on a technical decision or feature timeline. How did you advocate your perspective, find common ground, and execute?",
+          "relevanceReason": "Assesses emotional intelligence, cross-functional collaboration, and decision velocity.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Focuses on shared product outcomes rather than personal ego",
+            "Uses data, prototypes, or user impact to make objective arguments",
+            "Demonstrates ability to 'disagree and commit' when leadership aligns"
+          ],
+          "followUpProbes": [
+            "What was the eventual measurable outcome of that decision?",
+            "How did that experience influence how you build consensus today?"
+          ]
+        },
+        {
+          "id": "6a45e417-09e4-469d-ab40-0b5f16b4c6ff",
+          "category": "ROLE_SCENARIO",
+          "competency": "Prioritization & Technical Debt Management",
+          "difficulty": "LEAD",
+          "questionText": "As a Data Analyst, you are asked to ship a feature in 3 weeks that normally requires 6 weeks. How do you negotiate scope, protect architectural integrity, and manage technical debt?",
+          "relevanceReason": "Essential operational requirement for the Data Analyst position.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Breaks requirements into Must-Have vs Nice-to-Have phases",
+            "Identifies specific non-functional compromises and schedules debt payoff",
+            "Maintains automated testing baseline to avoid shipping broken logic"
+          ],
+          "followUpProbes": [
+            "What is one corner you would NEVER cut, even under executive pressure?",
+            "How do you track tech debt so it doesn't get forgotten?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-14T12:23:18.168137+00:00",
+      "updatedAt": "2026-10-14T12:23:18.168215+00:00"
+    },
+    "06b067c7-04ad-4794-9fc1-1465debb1521": {
+      "id": "06b067c7-04ad-4794-9fc1-1465debb1521",
+      "ownerId": "UNm9daqx4KbPLEqMHhlhMR8hUs83",
+      "jobId": "af7c6034-42c1-443f-b188-c5517d9a4f50",
+      "jobTitle": "Data Analyst",
+      "candidateResultId": "f814b422-5ae1-45d4-a749-54e50c64bb93",
+      "candidateName": "Niranjan M Bhat",
+      "questions": [
+        {
+          "id": "834bd8cc-c5d5-419a-bc3b-e032cfe7cc1a",
+          "category": "TECHNICAL",
+          "competency": "SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving. Architecture & Optimization",
+          "difficulty": "LEAD",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Analyst position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL. Excel. Python fundamentals. pandas. Data cleaning. Descriptive statistics. Data visualization. Analytical problem-solving.?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "cda14595-9056-4762-adaf-c10441bf3e87",
+          "category": "PROBLEM_SOLVING",
+          "competency": "Root Cause Analysis & Incident Management",
+          "difficulty": "LEAD",
+          "questionText": "Imagine an outage where a critical API servicing 'production reliability' experiences a 5x latency surge and cascading timeouts. Walk me step-by-step through your triage, diagnostic, and mitigation plan.",
+          "relevanceReason": "Evaluates problem solving under stress for key responsibility: production reliability.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Prioritizes stabilizing users/traffic before deep code dissection (rollback/circuit breaker)",
+            "Checks dashboards, APM traces, error rates, and database lock saturation",
+            "Proposes post-mortem blameless culture and preventative regression tests"
+          ],
+          "followUpProbes": [
+            "How do you communicate status to non-technical stakeholders during an active incident?",
+            "What SLA/SLO thresholds do you configure to alert on this proactively?"
+          ]
+        },
+        {
+          "id": "4e3761ec-006d-435d-977d-38bdf3dd33ab",
+          "category": "BEHAVIORAL",
+          "competency": "Stakeholder Collaboration & Technical Disagreements",
+          "difficulty": "LEAD",
+          "questionText": "Describe a time when you and a peer or product manager strongly disagreed on a technical decision or feature timeline. How did you advocate your perspective, find common ground, and execute?",
+          "relevanceReason": "Assesses emotional intelligence, cross-functional collaboration, and decision velocity.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Focuses on shared product outcomes rather than personal ego",
+            "Uses data, prototypes, or user impact to make objective arguments",
+            "Demonstrates ability to 'disagree and commit' when leadership aligns"
+          ],
+          "followUpProbes": [
+            "What was the eventual measurable outcome of that decision?",
+            "How did that experience influence how you build consensus today?"
+          ]
+        },
+        {
+          "id": "5aa2e9fe-3ce3-460c-b998-25f1cf217682",
+          "category": "ROLE_SCENARIO",
+          "competency": "Prioritization & Technical Debt Management",
+          "difficulty": "LEAD",
+          "questionText": "As a Data Analyst, you are asked to ship a feature in 3 weeks that normally requires 6 weeks. How do you negotiate scope, protect architectural integrity, and manage technical debt?",
+          "relevanceReason": "Essential operational requirement for the Data Analyst position.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Breaks requirements into Must-Have vs Nice-to-Have phases",
+            "Identifies specific non-functional compromises and schedules debt payoff",
+            "Maintains automated testing baseline to avoid shipping broken logic"
+          ],
+          "followUpProbes": [
+            "What is one corner you would NEVER cut, even under executive pressure?",
+            "How do you track tech debt so it doesn't get forgotten?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-14T12:23:18.965640+00:00",
+      "updatedAt": "2026-10-14T12:23:18.965715+00:00"
+    },
+    "e0b0d78f-93d8-4e69-9787-417ad8529bba": {
+      "id": "e0b0d78f-93d8-4e69-9787-417ad8529bba",
+      "ownerId": "test_cand_user_alpha",
+      "jobId": "aeb3d4c8-121a-46fa-b46b-442b64895fb0",
+      "jobTitle": "Data Engineer",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "4a7f03c6-fe06-4c49-8e15-c61a0471b847",
+          "category": "PROBLEM_SOLVING",
+          "competency": "Apache Spark & Python Performance Optimization",
+          "difficulty": "MID",
+          "questionText": "Can you describe a situation where a PySpark job you developed was running slowly or failing due to memory issues? How did you identify the bottleneck, and what specific steps did you take to optimize it?",
+          "relevanceReason": "Assesses the candidate's hands-on experience in diagnosing and resolving common distributed computing challenges like data skew, OOM errors, and inefficient execution plans in PySpark.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Mentions using the Spark UI to analyze execution stages, task durations, shuffle reads/writes, and storage memory.",
+            "Identifies common root causes such as data skew, inappropriate partitioning, or cartesian joins.",
+            "Applies concrete remediation strategies such as salting skewed keys, adjusting spark.sql.shuffle.partitions, or leveraging broadcast joins.",
+            "Demonstrates understanding of caching strategies and managing executor memory versus driver memory."
+          ],
+          "followUpProbes": [
+            "How did you determine whether a broadcast join was safe to use in that scenario?",
+            "What trade-offs did you consider when adjusting the partition counts?"
+          ]
+        },
+        {
+          "id": "668fe7e2-048d-41a9-ac15-4820d29a4892",
+          "category": "TECHNICAL",
+          "competency": "Advanced SQL & Idempotent Data Modeling",
+          "difficulty": "MID",
+          "questionText": "Suppose you need to write an incremental SQL transformation that calculates a 30-day rolling aggregate of user activities from a high-volume event table that receives late-arriving data. How would you design this query and ensure idempotent pipeline execution?",
+          "relevanceReason": "Evaluates the candidate's proficiency with complex analytical SQL (window functions) and fundamental data engineering concepts regarding state management, deduplication, and pipeline idempotency.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Uses appropriate analytical SQL constructs such as window functions (e.g., SUM/COUNT OVER with ROWS/RANGE BETWEEN).",
+            "Designs an incremental strategy (such as lookback windows or watermarking) to process late-arriving events accurately.",
+            "Ensures idempotency using UPSERT/MERGE operations or partition overwrites rather than blind appends.",
+            "Considers performance implications of scanning large historical ranges and suggests indexing or partition pruning."
+          ],
+          "followUpProbes": [
+            "How would your query handle duplicate events arriving across batch intervals?",
+            "What is the performance difference between 'ROWS BETWEEN' and 'RANGE BETWEEN' in this context?"
+          ]
+        },
+        {
+          "id": "0a81c4f8-1d47-4dcf-91d6-6cc26f7e1f49",
+          "category": "TECHNICAL",
+          "competency": "Python Software Engineering & Pipeline Architecture",
+          "difficulty": "MID",
+          "questionText": "Walk me through how you structure and package a production-grade Python/PySpark repository. Specifically, how do you decouple business logic from Spark dependencies to enable fast and reliable unit testing?",
+          "relevanceReason": "Tests whether the candidate writes clean, maintainable, and testable production code rather than monolithic, hard-to-test ETL scripts.",
+          "candidateEvidence": null,
+          "expectedIndicators": [
+            "Separates concerns into discrete layers: schema definitions, pure transformation logic, I/O connectors, and job orchestration.",
+            "Implements unit testing using frameworks like pytest with localized sample DataFrames or mock data.",
+            "Discusses techniques to test transformation logic without incurring the overhead of spinning up heavy cluster resources (e.g., local SparkSession fixtures or modular pure functions).",
+            "Mentions CI/CD integration, packaging (e.g., wheels/eggs), and dependency management tools (e.g., Poetry, pipenv)."
+          ],
+          "followUpProbes": [
+            "How do you manage configuration environments (dev, test, prod) cleanly within your Python codebase?",
+            "How do you handle schema validation during continuous integration runs?"
+          ]
+        }
+      ],
+      "generationSource": "LLM_ASSISTED",
+      "createdAt": "2026-10-15T13:29:53.845102+00:00",
+      "updatedAt": "2026-10-15T13:29:53.845230+00:00"
+    },
+    "020c866e-4653-4d0e-95db-6e2a131f16e4": {
+      "id": "020c866e-4653-4d0e-95db-6e2a131f16e4",
+      "ownerId": "test_cand_user_alpha",
+      "jobId": "efd09e73-69a6-42f0-9cac-ec50cc4f69ac",
+      "jobTitle": "Data Engineer",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "ec7fc146-bb23-4f14-94af-0db3197fd0a3",
+          "category": "TECHNICAL",
+          "competency": "Python Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with Python?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in Python; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of Python",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in Python?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "eb9b8b88-cf3d-4016-9e1e-456c267a836f",
+          "category": "TECHNICAL",
+          "competency": "SQL Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-15T13:29:56.998280+00:00",
+      "updatedAt": "2026-10-15T13:29:56.998352+00:00"
+    },
+    "59f0312a-0dae-473d-9ef1-19112c31bbf1": {
+      "id": "59f0312a-0dae-473d-9ef1-19112c31bbf1",
+      "ownerId": "test_cand_user_alpha",
+      "jobId": "15a1cd72-0a1d-421b-870e-711269859bf3",
+      "jobTitle": "Data Engineer",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "e7d2b3f3-ee7a-4355-b89b-ba0e92004279",
+          "category": "TECHNICAL",
+          "competency": "Python Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with Python?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in Python; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of Python",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in Python?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-15T13:29:59.914238+00:00",
+      "updatedAt": "2026-10-15T13:29:59.914303+00:00"
+    },
+    "5b5db550-8c98-41a3-9381-8b01b4ab02d7": {
+      "id": "5b5db550-8c98-41a3-9381-8b01b4ab02d7",
+      "ownerId": "test_cand_user_alpha",
+      "jobId": "4483bfc0-f29e-466b-a9a5-386d2aeaab6f",
+      "jobTitle": "Data Engineer",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "24bc2c4a-5c9d-44d0-8992-147c442be6f0",
+          "category": "TECHNICAL",
+          "competency": "Python Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with Python?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in Python; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of Python",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in Python?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "a31c816e-2faa-4f85-b7ba-200e2ff302f0",
+          "category": "TECHNICAL",
+          "competency": "SQL Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "fab8f7da-6bea-443a-bcba-cadababa7072",
+          "category": "TECHNICAL",
+          "competency": "Apache Spark Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with Apache Spark?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in Apache Spark; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of Apache Spark",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in Apache Spark?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-17T06:00:01.519609+00:00",
+      "updatedAt": "2026-10-17T06:00:01.519672+00:00"
+    },
+    "efff7cad-087d-497c-9975-3ab0a8057f03": {
+      "id": "efff7cad-087d-497c-9975-3ab0a8057f03",
+      "ownerId": "test_cand_user_alpha",
+      "jobId": "3000219a-a649-4f44-9a18-644de3d52063",
+      "jobTitle": "Data Engineer",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "521f26b5-172b-4db1-804e-c7322edee10d",
+          "category": "TECHNICAL",
+          "competency": "Python Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with Python?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in Python; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of Python",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in Python?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        },
+        {
+          "id": "a567662d-297a-445a-bc4f-dab2c365c6cb",
+          "category": "TECHNICAL",
+          "competency": "SQL Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with SQL?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in SQL; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of SQL",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in SQL?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-17T06:00:18.163983+00:00",
+      "updatedAt": "2026-10-17T06:00:18.164042+00:00"
+    },
+    "36f767b6-402b-4c71-996e-d5516b9db2a5": {
+      "id": "36f767b6-402b-4c71-996e-d5516b9db2a5",
+      "ownerId": "test_cand_user_alpha",
+      "jobId": "bc6ec305-619e-46b5-a8c8-47d508e65d84",
+      "jobTitle": "Data Engineer",
+      "candidateResultId": null,
+      "candidateName": null,
+      "questions": [
+        {
+          "id": "11e913ac-7369-4ce5-a212-013db5ebb4c5",
+          "category": "TECHNICAL",
+          "competency": "Python Architecture & Optimization",
+          "difficulty": "MID",
+          "questionText": "In high-concurrency environments, what architectural patterns and optimization strategies do you implement when building systems with Python?",
+          "relevanceReason": "Directly listed as a required core skill for the Data Engineer position.",
+          "candidateEvidence": "Resume does not explicitly verify production depth in Python; verification recommended.",
+          "expectedIndicators": [
+            "Explains core execution model and lifecycle of Python",
+            "Discusses state management, caching, or database interaction patterns",
+            "Mentions benchmarking, performance bottlenecks, and instrumentation"
+          ],
+          "followUpProbes": [
+            "How do you test and profile performance in Python?",
+            "What common anti-patterns have you encountered and refactored?"
+          ]
+        }
+      ],
+      "generationSource": "RULE_ENGINE_FALLBACK",
+      "createdAt": "2026-10-17T06:00:35.919412+00:00",
+      "updatedAt": "2026-10-17T06:00:35.919480+00:00"
+    }
+  },
+  "activityLogs": {},
+  "settings": {}
+}
